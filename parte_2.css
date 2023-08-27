@@ -1,0 +1,39 @@
+body {
+    background: rgb(36, 0, 0);
+    background: linear-gradient(90deg, rgba(36, 0, 0, 1) 0%, rgba(161, 18, 18, 1) 47%, rgba(36, 0, 0, 1) 100%);
+}
+
+img {
+    margin: auto;
+    height: 800px;
+    width: 600px;
+    padding: 5%;
+}
+
+p {
+    padding: 5%;
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+    margin: auto;
+    width: 85%;
+    height: 20%;
+}
+
+div {
+    color: #000000;
+    text-align: center;
+}
+
+.linea {
+    border: 3px solid black;
+}
+
+#barbi {
+    font-size: 50px;
+}
+
+#link {
+    margin: 44%;
+    font-size: 15px;
+    color: #000000;
+}

@@ -1,0 +1,114 @@
+body {
+    background: rgb(36, 0, 0);
+    background: linear-gradient(90deg, rgba(36, 0, 0, 1) 0%, rgba(161, 18, 18, 1) 47%, rgba(36, 0, 0, 1) 100%);
+    /* background-image: url(/fran.png/fondo\ verde.png); */
+    /* background-repeat: no-repeat; */
+    /* background-size:contain; */
+}
+
+.linea {
+    border: 3px solid black;
+}
+
+
+
+
+.titulo {
+    text-shadow: 5px 10px 5px black;
+    text-align: center;
+    padding: 1px;
+    margin: auto;
+    margin-top: 80px;
+    width: 50%;
+    border-radius: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 100px;
+    color: #000000;
+
+}
+
+div {
+    color: #000000;
+    text-align: center;
+}
+
+img {
+    margin: auto;
+    height: 800px;
+    width: 600px;
+    padding: 5%;
+}
+
+.container {
+    /* background-image: url(/fran.png/fondo\ verde.png); */
+    /* backdrop-filter: blur(2px);
+    background-color: transparent;
+    /* background-size: cover; */
+    /* border: 5px solid black;  */
+    margin: auto;
+    padding: 5px;
+
+
+}
+
+p {
+    padding: 5%;
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+    margin: auto;
+    width: 85%;
+    height: 20%;
+}
+
+
+
+#texto {
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    border: 5px solid black;
+    padding: 5px;
+    margin: auto;
+    width: 40%;
+    border-radius: 20px;
+    text-align: center;
+}
+
+#carta {
+    background-color: #000000;
+    border: 5px solid black;
+    border-radius: 15px;
+    margin: auto;
+    height: 140px;
+
+}
+
+#carta:hover {
+    background-color: rgb(61, 10, 10);
+    width: 600px;
+    height: 600px;
+    color: rgb(61, 10, 10);
+
+}
+
+#imagen {
+    width: 100px;
+    height: 100px;
+    margin: auto;
+
+
+
+}
+
+#imagen:hover {
+    width: 580px;
+    height: 500px;
+    margin: auto;
+
+}
+
+#link {
+    margin: 36%;
+    font-size: 40px;
+    text-decoration: none;
+    color: #000000;
+}
